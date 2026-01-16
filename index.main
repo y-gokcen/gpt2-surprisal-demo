@@ -351,7 +351,7 @@
         <header>
             <h1>🧠 GPT-2 Surprisal Calculator</h1>
             <p>Measure how unexpected each word is in context</p>
-            <p class="subtitle">Built with Claude AI assistance | Research by Yasemin Gokcen</p>
+            <p class="subtitle">Built with Cursor AI assistance | Research by Yasemin Gokcen</p>
         </header>
 
         <div class="content">
@@ -437,7 +437,7 @@
                 from my research on language processing and predictive coding.
             </p>
             <p style="margin-top: 10px;">
-                Built with Claude AI assistance | 
+                Built with Cursor AI assistance | 
                 <a href="https://github.com/USERNAME/gpt2-language-neuroscience" target="_blank">View Research</a> | 
                 <a href="mailto:ygokcen@ucmerced.edu">Contact</a>
             </p>
