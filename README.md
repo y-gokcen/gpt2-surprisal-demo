@@ -2,8 +2,7 @@
 
 An interactive web application that calculates and visualizes word-level surprisal using GPT-2, making computational linguistics research accessible and interactive.
 
-> **AI-Powered Development:** This project was built using Google AI for rapid prototyping, demonstrating modern AI-assisted development workflows. See [AI_TOOLS_USED.md](./AI_TOOLS_USED.md) for detailed documentation of the development process.
-
+> **AI-Powered Development:** This project was built using Google AI for rapid prototyping, demonstrating modern AI-assisted development workflows. 
 ## Project Overview
 
 This tool demonstrates practical application of my GPT-2 language processing research through an intuitive interface where users can:
