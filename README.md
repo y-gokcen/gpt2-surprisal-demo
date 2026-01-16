@@ -55,9 +55,9 @@ This project showcases **AI-first development** with the following tools:
 
 | Tool | Purpose | Impact |
 |------|---------|--------|
-| **Google AI Studio** | Core development, architecture, full implementation, model comparison, testing | Enhanced features, 80% time savings |
+| **Google AI Studio** |  Model comparison, testing | Enhanced features, 80% time savings |
 | **GitHub Copilot** | Code completion, pattern suggestions | Faster iteration |
-| **Cursor** | Context-aware code editing | Real-time refinement |
+| **Cursor** | Core development, architecture, full implementation, context-aware code editing | Real-time refinement |
 
 
 **Development time:** 60 minutes (vs. 5-6 hours manual coding)
