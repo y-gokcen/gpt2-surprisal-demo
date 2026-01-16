@@ -2,7 +2,7 @@
 
 An interactive web application that calculates and visualizes word-level surprisal using GPT-2, making computational linguistics research accessible and interactive.
 
-> **AI-Powered Development:** This project was built using Google AI for rapid prototyping, demonstrating modern AI-assisted development workflows. 
+> **AI-Powered Development:** This project was built using Cursor and Google AI for rapid prototyping, demonstrating modern AI-assisted development workflows. 
 ## Project Overview
 
 This tool demonstrates practical application of my GPT-2 language processing research through an intuitive interface where users can:
@@ -10,7 +10,7 @@ This tool demonstrates practical application of my GPT-2 language processing res
 - Visualize which words are surprising vs. predictable
 - Understand the relationship between language models and human cognition
 
-**Built with Google AI assistance** - This project showcases rapid prototyping and AI-assisted development capabilities.
+**Built with Cursor and Google AI assistance** - This project showcases rapid prototyping and AI-assisted development capabilities.
 
 ## Features
 
@@ -58,6 +58,7 @@ This project showcases **AI-first development** with the following tools:
 | **Google AI Studio** |  Model comparison, testing | Enhanced features, 80% time savings |
 | **GitHub Copilot** | Code completion, pattern suggestions | Faster iteration |
 | **Cursor** | Core development, architecture, full implementation, context-aware code editing | Real-time refinement |
+| **Claude AI** | Idea Development, code editing | Faster editing |
 
 
 **Development time:** 60 minutes (vs. 5-6 hours manual coding)
@@ -207,6 +208,7 @@ University of California, Merced
 ##  Acknowledgments
 
 - **Cursor and Google AI Studio** for development assistance and rapid prototyping
+- **Anthropic and Claude AI** for editing and feedback
 - **Hugging Face** for providing the GPT-2 inference API
 - **Natural Stories Corpus** for inspiring the research
 - **OpenAI** for the original GPT-2 model
